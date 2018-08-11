@@ -1,4 +1,5 @@
-The code outputs the correct result.
+Run testsummate.cpp to test the IP core.
+The code outputs the correct result. Opencv is used to view the original and binarized image
 
 
 Problems:
