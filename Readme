@@ -1,0 +1,9 @@
+The code outputs the correct result.
+
+
+Problems:
+1. To accomodate for images, large variables had to be defined
+2. Means and standard deviations are in floating points adding to the required resources.
+
+To Do:
+1. Reduce usage of variables.
